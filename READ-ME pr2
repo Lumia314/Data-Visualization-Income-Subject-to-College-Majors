@@ -1,0 +1,21 @@
+# Sign-up Form with Avatar Upload Option
+A sign up form to registering basic information including names, emails, phone numbers, usernames, date of birth.
+
+### Prerequisites
+- PHP
+- MySQL
+
+### Installing
+- Clone the source code to use
+
+### Requirements
+- Emails and usernames cannot be duplicated
+- Email has to be formatted as: xxx@xxx.xxx
+- Usernames can only contain: a-z, 0-9, _ or -
+- Avatar must be 'jpg' files
+
+### Built with
+- Sublime Text
+
+### Author
+Phuong Tran
