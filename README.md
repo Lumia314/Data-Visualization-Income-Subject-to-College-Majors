@@ -1,8 +1,8 @@
-# Data-Visualization-Income-Subject-to-College-Majors
-#Introduction
+# Data Visualization Income Subject to College Majors
+# Introduction
 We will explore a dataset in regards to income and career choice using visualization tools from Python
 
-##Data description
+## Data description
 The dataset is of students finishing college between 2010 and 2012. The data is collected by American Community Survey and has been provided courtesy of FiveThirtyEight.
 There are 173 data points with 21 columns listed as below:
 - Rank - Rank by median earnings (the dataset is ordered by this column).
@@ -20,7 +20,7 @@ There are 173 data points with 21 columns listed as below:
 - Full_time - Number employed 35 hours or more.
 - Part_time - Number employed less than 35 hours.
 
-##Purpose
+## Purpose
 Using visualizations, we can start to explore questions from the dataset such as:
 - Do students in more popular majors make more money?
 - Do students in more popular majors find it easier to get employed?
